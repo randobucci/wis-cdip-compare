@@ -7,17 +7,18 @@ This repository contains python code to conduct comparisons between USACED WIS m
 The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service.
 
 ### Python Notebooks
-* [1: WIS-CDIP-Test](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/01_ocean_bathymetry.ipynb)
-* [2: WIS-CDIP-Aggregation](http://nbviewer.jupyter.org/github/rabernat/intro_to_physical_oceanography/blob/master/lectures/02-a_thermodynamics_of_seawater.ipynb)
+* [1: WIS-CDIP-Test](https://nbviewer.jupyter.org/github/randobucci/wis-cdip-compare/blob/master/export/WIS-CDIP-Test.ipynb)
+* [2: WIS-CDIP-Aggregate](https://nbviewer.jupyter.org/github/randobucci/wis-cdip-compare/blob/master/export/WIS-CDIP-Aggregate.ipynb)
+* [3: WIS-CDIP-Compare](https://nbviewer.jupyter.org/github/randobucci/wis-cdip-compare/blob/master/export/WIS-CDIP-Aggregate.ipynb)
 
 ## Run the code interactively ##
 
-Use git to [clone this repository](git clone https://randy_bucciarelli@bitbucket.org/randy_bucciarelli/wis-compare.git). If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://www.atlassian.com/git).
+Use git to [clone this repository](git clone https://github.com/randobucci/wis-cdip-compare.git). If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://www.atlassian.com/git).
 
 From the command line, run the command
 
 ```bash
-git clone https://randy_bucciarelli@bitbucket.org/randy_bucciarelli/wis-compare.git
+git clone https://github.com/randobucci/wis-cdip-compare.git
 ```
 
 Once you have the repository cloned, you can update it periodically to match master repo
