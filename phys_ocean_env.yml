@@ -6,7 +6,6 @@ channels:
 dependencies:
     - python=3.6    # Python version 3.6
     - bottleneck    # C-optimized array functions for NumPy
-    - cartopy       # Geographic plotting toolkit
     - cython        # Transpile Python->C
     - dask          # Parallel processing library
     - future        # Python 2/3 compatibility
@@ -29,5 +28,3 @@ dependencies:
     - xarray        # N-d labeled array library
     - nb_conda
     - holoviews
-    - geoviews
-    - gsw
