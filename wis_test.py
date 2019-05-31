@@ -115,6 +115,7 @@ pHs.grid(b=True, which='major', color='b', linestyle='--')
 pTp.grid(b=True, which='major', color='b', linestyle='--')
 pDp.grid(b=True, which='major', color='b', linestyle='--')
 
+plt.show()
 
 
 
